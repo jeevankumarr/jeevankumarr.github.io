@@ -1,2 +1,11 @@
+highlighter: rogue
+name: For Karma
+url: "https://jeevankumarr.github.io"
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+permalink: pretty
+
+# Build Settings
 markdown: kramdown
 theme: minima
+
